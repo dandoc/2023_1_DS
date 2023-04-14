@@ -19,7 +19,7 @@ The followings are a list of specific requirements or assugmptions of this progr
 * use the given stack library (`stack.c` and `llist.c`),
 * assume that the length of the given string does not exceed 32,
 * print out the solution (i.e., a sequence of substring reverse operations) legibly,
-* limit the length of a substring reverse operation sequence to the length of the given string. Print `no solution` if  no solution is found under the limit, 
+* limit the length of a substring reverse operation sequence to the length of the given string. Print `no solution` if  no solution is found under the limit.
 * you must write a 1-page document to explain how to use your program.
 
 Submit your result to HDLMS by 9 PM, 14 Apr (Fri). No late submission will be accepted.

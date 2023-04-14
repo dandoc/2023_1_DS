@@ -7,7 +7,8 @@ enum direction {
 	Up, 
 	Down, 
 	Right,
-	Left
+	Left,
+	Done
 } ;
 
 typedef struct {
